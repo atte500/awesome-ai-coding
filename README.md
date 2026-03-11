@@ -276,7 +276,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/awesome-ai-coding&type=Date)](https://star-history.com/#YOUR_USERNAME/awesome-ai-coding&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=chendongqi/awesome-ai-coding&type=Date)](https://star-history.com/#chendongqi/awesome-ai-coding&Date)
 
 If this project helps you, please give it a Star ⭐
 

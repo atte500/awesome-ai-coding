@@ -276,7 +276,7 @@
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/awesome-ai-coding&type=Date)](https://star-history.com/#YOUR_USERNAME/awesome-ai-coding&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=chendongqi/awesome-ai-coding&type=Date)](https://star-history.com/#chendongqi/awesome-ai-coding&Date)
 
 如果这个项目对你有帮助，请给它一个 Star ⭐
 
